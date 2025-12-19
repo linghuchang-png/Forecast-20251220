@@ -1,0 +1,4 @@
+date,part_number,vendor,country,price,lead_time,quantity 
+2024-01-01,A12345,Vendor1,USA,125.50,14,100 
+2024-01-15,A12345,Vendor1,USA,126.75,15,150 
+2024-02-01,B67890,Vendor2,Germany,233.25,21,75 

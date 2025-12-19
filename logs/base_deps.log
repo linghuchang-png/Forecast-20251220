@@ -1,0 +1,16 @@
+Requirement already satisfied: pip in c:\downloads\forecast\venv\lib\site-packages (25.3)
+Requirement already satisfied: setuptools in c:\downloads\forecast\venv\lib\site-packages (58.1.0)
+Collecting setuptools
+  Using cached setuptools-80.9.0-py3-none-any.whl.metadata (6.6 kB)
+Requirement already satisfied: wheel in c:\downloads\forecast\venv\lib\site-packages (0.45.1)
+Requirement already satisfied: build in c:\downloads\forecast\venv\lib\site-packages (1.3.0)
+Requirement already satisfied: packaging>=19.1 in c:\downloads\forecast\venv\lib\site-packages (from build) (25.0)
+Requirement already satisfied: pyproject_hooks in c:\downloads\forecast\venv\lib\site-packages (from build) (1.2.0)
+Requirement already satisfied: colorama in c:\downloads\forecast\venv\lib\site-packages (from build) (0.4.6)
+Using cached setuptools-80.9.0-py3-none-any.whl (1.2 MB)
+Installing collected packages: setuptools
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 58.1.0
+    Uninstalling setuptools-58.1.0:
+      Successfully uninstalled setuptools-58.1.0
+Successfully installed setuptools-80.9.0

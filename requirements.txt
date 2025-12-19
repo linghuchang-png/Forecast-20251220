@@ -1,0 +1,35 @@
+# Core packages
+wheel>=0.37.1
+setuptools>=65.5.1
+pip>=23.0.1
+
+# Data processing and analysis
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.10.1
+
+# Visualization
+plotly==5.14.1
+matplotlib==3.7.2
+
+# Statistical models
+statsmodels==0.14.0
+
+# Optimization
+ortools==9.6.2534
+
+# File handling
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# PDF generation
+fpdf==1.7.2
+
+# Streamlit UI
+streamlit==1.25.0
+
+# Image export (often problematic, so make it optional)
+# kaleido==0.2.1
+
+# Machine learning
+scikit-learn==1.3.0

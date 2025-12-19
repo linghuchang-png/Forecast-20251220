@@ -1,0 +1,10 @@
+Collecting plotly==5.14.1
+  Using cached plotly-5.14.1-py2.py3-none-any.whl.metadata (7.0 kB)
+Collecting tenacity>=6.2.0 (from plotly==5.14.1)
+  Using cached tenacity-9.1.2-py3-none-any.whl.metadata (1.2 kB)
+Requirement already satisfied: packaging in c:\downloads\forecast\venv\lib\site-packages (from plotly==5.14.1) (25.0)
+Using cached plotly-5.14.1-py2.py3-none-any.whl (15.3 MB)
+Using cached tenacity-9.1.2-py3-none-any.whl (28 kB)
+Installing collected packages: tenacity, plotly
+
+Successfully installed plotly-5.14.1 tenacity-9.1.2
