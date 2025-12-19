@@ -6,7 +6,7 @@ scikit-learn
 statsmodels
 ortools
 plotly
-kaleido==0.1.0post1
+kaleido
 fpdf2
 xlsxwriter
 matplotlib
